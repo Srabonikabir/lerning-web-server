@@ -1,0 +1,512 @@
+
+
+
+
+
+
+    [
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "1",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Informatino Systems",
+        "author": {
+          "name": "Alex",
+          "published_date": "2024-02-05 09:07:54",
+          "img": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://www.ft.unicamp.br/sites/default/files/computing.jpg",
+        "details": "A computer information systems degree instructs students in how to apply technology to a business setting. Students in computer information systems programs gain the technical, communication, and organizational skills necessary to thrive as IT professionals. Individuals interested in studying computer systems and information technology and then applying that skill in a business context will benefit from a degree in computer information systems. The ever-changing nature of technology and how it's integrated into society mean there are infinite ways to apply a degree in computer information systems to a career.When considering whether to earn a degree in computer information systems vs. computer science, take into account the different outcomes from each program. Scroll down to find out more about what distinguishes computer information systems degrees from similar programs. Computer information systems degrees include coursework in computer science, information technology, communications, and business. Students gain a foundational understanding of information systems, computer programming, and software applications while also studying business basics like marketing, finance, and economics. Major coursework trains students to apply computer technologies to a business's functions and needs. Classes in marketing and business performance focus on using technology to conduct market research and analysis. Courses in global supply operations explore the use of computers in moving goods and services around the world. Many computer information systems degrees include group projects and cooperative learning activities with an overall goal of training students to use their skills in a business environment. Practical exercises prepare learners to transition into professional roles."
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "3",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Logo Design",
+        "author": {
+          "name": "Lisa",
+          "published_date": "2023-07-14 18:23:03",
+          "img": "https://images.pexels.com/photos/1310522/pexels-photo-1310522.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "http://www.buttercup.in/case-studies/wp-content/uploads/2019/02/logo-design-1.jpg",
+        "details": "A great logo is instantly recognizable, memorable, and closely connected to your brand’s core values and ideas. Just sit back and think about it, what logos are simply unforgettable? The first that comes to mind for me are iconic logos like Apple, Coca-Cola, and Nike. Logos like these are simple and elegant yet bold enough to leave a lasting impression.When designing your logo, you can make a powerful impact on how your brand is perceived. Designing a timeless logo is challenging, I'm here to help. To get your logo right, you’ll need to have a firm grasp of your market, buyer personas, and your company’s ethos.A logo is a visual symbol or mark that represents a company or organization, often used to identify and distinguish a brand from competitors. It typically consists of unique colors, shapes, and typography that convey the company's identity and values.The first step to designing your logo is understanding your brand. Before you think about opening Canva or starting a sketch, you must pinpoint your brand’s story and the specific values and emotions you want to synthesize in your logo.This process involves the exploration of your target audience, your buyer personas, and, most importantly, how you want people to feel when they perceive your logo.“It’s through mistakes that you actually can grow. You have to get bad in order to get good.” – Paula Scher"
+      },
+  
+      {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "1",
+        "rating": { "number": 4.8, "badge": "Excellent" },
+        "total_view": 400,
+        "title": "Programing",
+        "author": {
+          "name": "Harry",
+          "published_date": "2023-10-33 19:30:25",
+          "img": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+        "image_url": "https://media.licdn.com/dms/image/D4D12AQFCiF_v1bcBtg/article-cover_image-shrink_720_1280/0/1677570613694?e=2147483647&v=beta&t=g8krOQTOd7qkLx-lUfXq3mBr05ylCx480bzi8wlMUz0",
+        "details": "Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.[1][2] It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages. Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit. Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code. While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se. Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process..It is very difficult to determine what are the most popular modern programming languages. Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language,[20] the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL). Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications. For example, COBOL is still strong in corporate data centers[21] often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software. Many applications use a mix of several languages in their construction and use. New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation)The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging). There exist a lot of different approaches for each of those tasks. One approach popular for requirements analysis is Use Case analysis. Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years. There are many approaches to the Software development process.Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA). The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.."
+      },
+      {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "2",
+        "rating": { "number": 4.3, "badge": "Excellent" },
+        "total_view": 400,
+        "title": "C++",
+        "author": {
+          "name": "Heanry",
+          "published_date": "2024-01-29 12:08:05",
+          "img": "https://images.pexels.com/photos/1674752/pexels-photo-1674752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+        "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg",
+        "details": "The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging). There exist a lot of different approaches for each of those tasks. One approach popular for requirements analysis is Use Case analysis. Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years. There are many approaches to the Software development process. Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA). The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA. A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.C++ is a most popular cross-platform programming language which is used to create high-performance applications and software like OS, Games, E-commerce software, etc. It was developed by Bjarne Stroustrup, as an extension of C language. C++ give a high level of control over system resources and memory.++ tutorial provides basic and advanced concepts of C++. Our C++ tutorial is designed for beginners and professionals.C++ is an object-oriented programming language. It is an extension to C programming.Our C++ tutorial includes all topics of C++ such as first example, control statements, objects and classes, inheritance, constructor, destructor, this, static, polymorphism, abstraction, abstract class, interface, namespace, encapsulation, arrays, strings, exception handling, File IO, etc."
+      },
+  
+      {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": false
+        },
+        "category_id": "3",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 980,
+        "title": "Banner Design",
+        "author": {
+          "name": "Mr. Gary",
+          "published_date": "2024-01-29 12:08:05",
+          "img": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+        "image_url": "https://graphicsfamily.com/wp-content/uploads/2020/11/Professional-Web-Banner-AD-in-Photoshop-1180x664.jpg",
+        "details": "Along with making your content easy to read and comprehend, there is also the need to design your text as accessible as possible.It has been a challenge for designers for many years. They needed to answer this crucial question via their design.How does a design affect the audience if they don't read it? Imagine a professional high-quality design that is very pleasant to look at, but you can not read any text on it.Will it still be attractive to you?Designing for higher accessibility means paying attention to all aspects of contrasts between the background, foreground, and colors.So if you are a web banner designer, keep in midland to design them in a way everybody can read and understand them.Remember to check your design in the color blindness simulator so that you can make sure your banner is understandable for all types of people.     6. Make Your Web Banners Design Simple                                                                   People tend to be more attracted to simple banner designs. Designing banner ads too complicated has a negative effect on the campaign results.A non-written rule says you only have 5 to 10 seconds to grab your audience’s attention. Do not waste this short time with a complicated message.Transfer your brand’s message as quickly and simply as you can.Too much information or images confuses the audience and makes it hard for them to understand what you are even representing or selling.So do not include too much information or images on your banner ads.                7. Design to Stand Out                                                                       Do not use a white background in your banner ad designs.Why?Because it blends too much into the webpage promoting your business.Use brighter background colors to attract potential customers’ attention.Considering not to use contrasting colors and optimizing accessibility, always remember to design with appropriate colors to grab your audience’s attention.                                                               8. Keep the Banner and Landing Page Design Elements Consistent After designing the perfect banner ad that persuades your audience to click on your ad, ensure the landing page is aligned.It means you have to take consistency into account while designing your banner ad and the landing page.The audience got interested in your banner advertisements, so if the landing page has a huge contrast, it may disappoint them and leave the page without any results you are looking for. For example, use the same color and fonts in both web pages and the banner design to be consistent.                                                              9. Do Not Forget to Include Your Logo                                     No alt text provided for this image Although it seems obvious you have to use your company name and logo. People sometimes forget to include their logo in banner ads.Do not be one of those people.Banner ads must contain your logo wherever possible. Just using it is incredibly important, no matter how small or big your logo is. A clear design/visual hierarchy helps your audience go through the ad to its ending.There has to be a journey from the very beginning of the web banner to the very end of it, which is a strong CTA.                                                   10. Stay True to Your Brand                                               No alt text provided for this image No matter what happens, always be consistent about your brand characteristics.For example, you choose a specific logo or color that you always use. This helps people to recognize your brand easily.Now, if you suddenly change your logo or color, it may confuse the audience. Consistency in your brand identity leads the right audience toward your brand.                                                                     11. Think About the Mobile Viewing Experience                                                                 No alt text provided for this image Many designers just take people who use laptops or computers into account. But there is a huge number of people who use their mobile phones to search in the internet.According to a study, mobile ad conversions grew faster than those from desktops.It would be a huge waste of effort to ignore the entire platform. Make sure your audience can read and understand your text in a mobile application too because of its smaller size than a desktop.                                                                 12. Test Different Designs to Choose the Most Captivating Banner Ads Design as many samples as you can, in different sizes and different content.After creating the web banner remember to test these elements to define which one is the best: Font and background color Call to action The quality of images in motion if the host web page allows.Check for white space. If it needs to be decreased to avoid blending into the host page.Always keep in mind that what works the best for another business might be the worst for your brand. So do not copy other people’s experiences. You need to investigate your brand and create what works best for you."
+      },
+      {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": false
+        },
+        "category_id": "1",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 980,
+        "title": "Data Stracture",
+        "author": {
+          "name": "Nowa aid",
+          "published_date": "2022-08-24 23:15:00",
+          "img": "https://images.pexels.com/photos/2613260/pexels-photo-2613260.jpeg"
+        },
+        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+        "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230706095706/intro-data-structure-%E2%80%93-1.png",
+        "details": "Data structures are essential components that help organize and store data efficiently in computer memory. They provide a way to manage and manipulate data effectively, enabling faster access, insertion, and deletion operations.Common data structures include arrays, linked lists, stacks, queues, trees, and graphs , each serving specific purposes based on the requirements of the problem. Understanding data structures is fundamental for designing efficient algorithms and optimizing software performanceBelow are some most popular Data Structure:                                                              1. Array:Array is a linear data structure that stores a collection of elements of the same data type. Elements are allocated contiguous memory, allowing for constant-time access. Each element has a unique index number.                        2.Matrix:                              A matrix is a two-dimensional array of elements, arranged in rows and columns. It is represented as a rectangular grid, with each element at the intersection of a row and column.                              3. Linked List:                                 A linear data structure where elements are stored in nodes linked together by pointers. Each node contains the data and a pointer to the next node in the list. Linked lists are efficient for inserting and deleting elements, but they can be slower for accessing elements than arrays.                        4. Stack:                                                                Stack is a linear data structure that follows a particular order in which the operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out). LIFO implies that the element that is inserted last, comes out first and FILO implies that the element that is inserted first, comes out last.                              5. Queue:                           A Queue Data Structure is a fundamental concept in computer science used for storing and managing data in a specific order. It follows the principle of “First in, First out” (FIFO), where the first element added to the queue is the first one to be removed         6. Binary Tree:                  Binary Tree is a hierarchical data structure where each node has at most two child nodes, referred to as the left child and the right child. Binary trees are mostly used to represent hierarchical data, such as file systems or family trees.       7. Binary Search Tree:                               A Binary Search Tree is a data structure used for storing data in a sorted manner. Each node in a Binary Search Tree has at most two children, a left child and a right child, with the left child containing values less than the parent node and the right child containing values greater than the parent node. This hierarchical structure allows for efficient searching, insertion, and deletion operations on the data stored in the tree "
+      },
+  
+      {
+        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "2",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": null,
+        "title": "javaScript",
+        "author": {
+          "name": "Jack mack",
+          "published_date": "2022-08-30 15:00:04",
+          "img": "https://images.pexels.com/photos/413959/pexels-photo-413959.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+        "image_url": "https://media.geeksforgeeks.org/wp-content/uploads/20230809133232/JavaScript-Complete-Guide-copy-2.webp",
+        "details": "Welcome to the MDN beginner's JavaScript course! In this article we will look at JavaScript from a high level, answering questions such as What is it? and What can you do with it?, and making sure you are comfortable with JavaScript's purpose.                            A high-level definition            JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.What is even more exciting however is the functionality built on top of the client-side JavaScript language. So-called Application Programming Interfaces (APIs) provide you with extra superpowers to use in your JavaScript code.                     APIs are ready-made sets of code building blocks that allow a developer to implement programs that would otherwise be hard or impossible to implement. They do the same thing for programming that ready-made furniture kits do for home building — it is much easier to take ready-cut panels and screw them together to make a bookshelf than it is to work out the design yourself, go and find the correct wood, cut all the panels to the right size and shape, find the correct-sized screws, and then put them together to make a bookshelf.Here we'll actually start looking at some code, and while doing so, explore what actually happens when you run some JavaScript in your page.Let's briefly recap the story of what happens when you load a web page in a browser (first talked about in our How CSS works article). When you load a web page in your browser, you are running your code (the HTML, CSS, and JavaScript) inside an execution environment (the browser tab). This is like a factory that takes in raw materials (the code) and outputs a product (the web page)."
+      },
+  
+      {
+        "_id": "a713ee936ff5574273f0f769f5c5b20e",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "3",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 111,
+        "title": "Flyers Design",
+        "author": {
+          "name": "Leo",
+          "published_date":"2023-10-33 19:30:25",
+          "img": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+        "image_url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/21749367/original/e2a85e2b5a12a2dd11d1bdeb4e5ed4cd700c990f/design-professional-business-flyer.jpg",
+        "details": "About this gig                                   I will design an Attractive and Unique Flyer, Brochure, leaflet, poster and postcard for your Company/Corporate or Event. I'll create it clean, modern and professional so that customers decide to do business with you. A tried and true marketing tactic, flyers are a fantastic way to reach your target market — so long as they’re done right.                              These advertisements are typically made from basic printing materials such as paper or cardstock. Though the standard size is 8.5 x 11 inches (the same as a sheet of printer paper), flyers can come in different shapes and sizes depending on their purpose.These advertisements are typically made from basic printing materials such as paper or cardstock. Though the standard size is 8.5 x 11 inches (the same as a sheet of printer paper), flyers can come in different shapes and sizes depending on their purpose.If you can master the skills needed to send a clear, captivating, action-inspiring message, you’ll be more than happy you trusted these age-old promotional tools with your brand. Fail to execute your vision, however, and you can all but guarantee your hard work will be overlooked. So save yourself the hassle and check out this total guide to flyer design. I’ll talk the tips and tools you need to make this simple yet effective print medium work for you. Plus, you’ll find plenty of examples and customizable templates throughout.                         For example, the flyer above has the goal of appealing to inexperienced yogis because it’s titled an “orientation”. There are also three major benefits outlined to entice folks who are unfamiliar with the practice.Since this flyer provides details about where the orientation will be taking place, this flyer can be placed in different spaces. However, without a city or town name, you’ll need to consider that those unfamiliar may not know where to go. They would need to follow the CTA and check the online site for more details.                          The moral of the story is, creating a clear outline that keeps your target audience and goal in mind helps focus your content, and prevents you from glossing over, or leaving out, important information.Revision is available here until your SATISFACTION.Think back to what you most often do with the leaflets that the distributors give you on the street. That’s right – most of the time they go in the trash bin, and sometimes they are not picked up at all. Often it is due to lack of need for the advertised product, but sometimes it is also due to poor design or bad text. If you want to avoid this from happening to your flyers, you should try to have a harmonious background and a well-written and clear text, which is sure to attract people’s interest. In our case, it is quite important to observe the line, because we have prepared some impressive church flyer background templates just for such situati.We have tried to choose soft and calm tones that make you feel relaxed when you look at them. It is not necessary to cover the flyer with hundreds of crosses, angels, domes, and other church symbols, as this may put some people off. Some may even think it is some kind of sect or cult before they have even started reading the text of the flyer. So, download, buy, and enjoy any of these specially selected backgrounds for your flyers that will hook any passer-by."
+      },
+  
+      {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "others_info": {
+          "is_todays_pick": true,
+          "is_trending": false
+        },
+        "category_id": "4",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 733,
+        "title": "Shaquille O’Neal auctions a 1000 size 22 Reeboks for $999.32 each!",
+        "author": {
+          "name": "Computer Networking",
+          "published_date": "2024-03-17 02:10:00",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+        "image_url": "https://cdn.techjockey.com/blog/wp-content/uploads/2022/03/03123505/What-are-Computer-Networking-Devices.jpg?d=830",
+        "details": "A computer network is a system that connects two or more computing devices for transmitting and sharing information. Computing devices include everything from a mobile phone to a server. These devices are connected using physical wires such as fiber optics, but they can also be wireless.                           A computer network is a set of computers sharing resources located on or provided by network nodes. Computers use common communication protocols over digital interconnections to communicate with each other. These interconnections are made up of telecommunication network technologies based on physically wired, optical, and wireless radio-frequency methods that may be arranged in a variety of network topologies.The nodes of a computer network can include personal computers, servers, networking hardware, or other specialized or general-purpose hosts. They are identified by network addresses and may have hostnames. Hostnames serve as memorable labels for the nodes and are rarely changed after initial assignment. Network addresses serve for locating and identifying the nodes by communication protocols such as the Internet Protocol.Computer networks may be classified by many criteria, including the transmission medium used to carry signals, bandwidth, communications protocols to organize network traffic, the network size, the topology, traffic control mechanisms, and organizational intent.[citation needed]Computer networks support many applications and services, such as access to the World Wide Web, digital video and audio, shared use of application and storage servers, printers and fax machines, and use of email and instant messaging applications.The first working network, called ARPANET, was created in the late 1960s and was funded by the U.S. Department of Defense. Government researchers used to share information at a time when computers were large and difficult to move. We have come a long way today from that basic kind of network. Today’s world revolves around the internet, which is a network of networks that connects billions of devices across the world. Organizations of all sizes use networks to connect their employees’ devices and shared resources such as printers.An example of a computer network at large is the traffic monitoring systems in urban cities. These systems alert officials and emergency responders with information about traffic flow and incidents. A simpler example is using collaboration software such as Google Drive to share documents with colleagues who work remotely. Every time we connect via a video call, stream movies, share files, chat with instant messages, or just access something on the internet, a computer network is at work.Computer networking is the branch of computer science that deals with the ideation, architecture, creation, maintenance, and security of computer networks. It is a combination of computer science, computer engineering, and telecommunication."
+      },
+      {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": false
+        },
+        "category_id": "4",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 733,
+        "title": "George Russell wears $110 Daniel Ricciardo merchandise to Zandvoort paddock ahead of Dutch GP",
+        "author": {
+          "name": "Secret Power of Networking",
+          "published_date": "2021-02-21 04:33:09",
+          "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/df3gJ1b/unsplash-Eh-Tc-C9s-YXsw-13.png",
+        "image_url": "https://media.licdn.com/dms/image/D4E12AQEG12QOHwEkrw/article-cover_image-shrink_720_1280/0/1697445705230?e=2147483647&v=beta&t=ph6MtI_x2KuCW9kxmTTAOyh7rwGyhTDFWxlWE_nU6p4",
+        "details": "This newsletter edition will be a tough cookie, so buckle up!                                 I am an extreme extrovert in real life but an introvert in the digital world. So it was tough for me to start contacting people I did not know in person on LinkedIn. The first meeting was a real pain, but after the 5th one, it became a tool.I want to share my experiences with this beneficial tool. Today I am having meetings every day, and I am running all of those completely detached from the outcome. The primary mindset for such a meeting is zero expectations. I don't expect a client will buy something from me (for a job seeker to provide you with a job). Your mantra should be according to Josh Braun:“I’m going to reach out to people. Some will be open to having a conversation with me. Some won’t. It’s okay either way. I’m not for everyone.”If you talk to people without trying to sell something or ask for a job, you will establish a human connection first and build trust. Business or job opportunities will develop by themselves if you do networking activities regularly.Let's look at the Definitions first.                                Networking is meant to establish a contact, build a relationship and create the necessary trust to turn it into cooperation. Cooperation is the best means of increasing one's entrepreneurial and career opportunities.To build your network, you must act consistently. Whom you keep in touch with and how often determines your success rate. The development and maintenance should be like taking care of a garden.A contact becomes a relationship by going through an extraordinary situation together or building trust slowly and regularly.A contact is somebody you meet and may limit itself to the mere exchange of business cards.                                 Contact is like a plant with young roots — if you put pressure on it, it will topple over or pull away from the soil and die.A relationship is a mutual, consolidated interaction of trust where both parties agree to support, help, and cooperate. A relationship is almost always a private act that extends professionally and not the inverse as it is established without benefiting the optimal goal.Networking should not be about you, but it should be about the other person. What we do so every single day on LinkedIn is the following scenario:                             A new contact approaches you and the second message is already about selling something or asking for a job! How annoying is that? The only way to be successful with your networking efforts is not to do networking in a purpose-driven way!In the last article, we have stopped the moment when your new contact is accepting your connection request.When we open the meeting, it's essential to hand over the control of the meeting to the other person by saying something like: Nice to see you, XY, thank you very much for making it possible. We have scheduled a 15 minutes introductory meeting today. Does this still work with you?                                                                      With this sentence, you allow your partner to say NO, just in case something urgent lands on their desk. It is better to reschedule than to talk under time pressure. "
+      },
+  
+      {
+        "_id": "f06f8cc035b04bd1158e4198281915a3",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "5",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 127,
+        "title": "Ethical Hacking",
+        "author": {
+          "name": "Ethika",
+          "published_date": "2024-03-17 02:10:00",
+          "img": "https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
+        "image_url": "https://d30i16bbj53pdg.cloudfront.net/wp-content/uploads/2021/02/ethical-hacking-web.jpeg",
+        "details": "Ethical hacking is a process of detecting vulnerabilities in an application, system, or organization's infrastructure that an attacker can use to exploit an individual or organization. They use this process to prevent cyberattacks and security breaches by lawfully hacking into the systems and looking for weak points. Ethical hacking involves an authorized attempt to gain unauthorized access to a computer system, application, or data. Carrying out an ethical hack involves duplicating strategies and actions of malicious attackers. This practice helps to identify security vulnerabilities which can then be resolved before a malicious attacker has the opportunity to exploit them.                                                                     What is an ethical hacker?                                                                  Also known as “white hats,” ethical hackers are security experts that perform these security assessments. The proactive work they do helps to improve an organization’s security posture. With prior approval from the organization or owner of the IT asset, the mission of ethical hacking is opposite from malicious hacking.                                                                  How are ethical hackers different than malicious hackers?                                                                  Ethical hackers use their knowledge to secure and improve the technology of organizations. They provide an essential service to these organizations by looking for vulnerabilities that can lead to a security breach.An ethical hacker reports the identified vulnerabilities to the organization. Additionally, they provide remediation advice. In many cases, with the organization’s consent, the ethical hacker performs a re-test to ensure the vulnerabilities are fully resolved.Malicious hackers intend to gain unauthorized access to a resource (the more sensitive the better) for financial gain or personal recognition. Some malicious hackers deface websites or crash backend servers for fun, reputation damage, or to cause financial loss. The methods used and vulnerabilities found remain unreported. They aren’t concerned with improving the organizations security posture.                                                                What problems does hacking identify?                                                                  While assessing the security of an organization’s IT asset(s), ethical hacking aims to mimic an attacker. In doing so, they look for attack vectors against the target. The initial goal is to perform reconnaissance, gaining as much information as possible.Once the ethical hacker gathers enough information, they use it to look for vulnerabilities against the asset. They perform this assessment with a combination of automated and manual testing. Even sophisticated systems may have complex countermeasure technologies which may be vulnerable.They don’t stop at uncovering vulnerabilities. Ethical hackers use exploits against the vulnerabilities to prove how a malicious attacker could exploit it."
+      },
+      {
+        "_id": "f06f8cc035b04bd1158e4198281915a4",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "5",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 127,
+        "title": "Hackers HandBook",
+        "author": {
+          "name": "Raisa",
+          "published_date": "2021-02-21 04:33:09",
+          "img": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+        "image_url": "https://www.themanual.com/wp-content/uploads/sites/9/2018/05/survival-hackers-handbook-gear.jpg?fit=800%2C449&p=1",
+        "details": "Among the things I’m hoping I never have to deal with are a grizzly bear attack, an avalanche, and being caught in the middle of a flash flood. I also don’t want to find myself miles away from civilization and without fresh water. And come to think of it, I don’t want to deal with a gushing flesh wound, either.                                                                   But, if any of those things happen, I’ll be better prepared to face them thanks to Ted Alvarez’s enjoyable, informative new book, Buy at Amazon. Subtitled How to Survive with Just About Anything, this lavishly illustrated, well-organized 250 page book covers all the basics and even well beyond when it comes to backcountry survival.Alvarez has been a writer and editor for Backpacker magazine for many years, and he’s a lifelong, avid outdoorsman.                                                         After some open-minded self-assessment, he realized that, despite all that time spent plying the fields, forests, and mountains, he wasn’t actually all that prepared for a genuine survival situation. So he did what any sensible person would and began to regularly plunge himself into wilderness survival scenarios, testing out techniques and gear, devising his own new survival tricks and strategies, and finding out much of what works and what doesn’t when a person is far afield and on their own.First, a word of caution: Reading The Survival Hacker’s Handbook does not make you ready to survive alone and without proper gear and provisions. Only practical experience does that. Reading this book will, however, serve as a great first step toward developing backwoods survival skills, and can help you plan your own survival training program, assemble your own wilderness supply list, and ready your mind for the challenges you might one day face out there in the wild.                              Also, reading this book is a good way to spend an afternoon or two, because unlike many such guides, it is written with compelling, often amusing prose. You can select chapters and sections that are of particular interest or which might be germane to a given situation (say you just got lost, you have no water, but you do have your copy of the book, for example).I’d recommend you just read the thing straight through. Taken as a whole, The Survival Hacker’s Handbook covers just about every topic required for making it through a survival ordeal, from preparing shelters to finding safe sources of food to treating injuries to navigation to handling various dangers and on and on. It is also organized in a logical way for front to back reading, starting off covering the absolute essentials (shelter, water, food) and progressing later to topics that are important, but not universally critical. (You always need shelter, hydration, and nourishment, e.g., but you might not always be facing a wild fire risk or dealing with a broken leg.)                                                                      Another good reason to read The Survival Hacker’s Handbook in its entirety is the fact that, as a quick-reference guide, this book isn’t all that helpful. The information is shared in story and essay-style writing, not in quick bullet points. If you try to depend on this book in an actual crisis, you’re probably in trouble. Acquiring the knowledge Alvarez has to share requires a thorough reading of each section, so don’t wait to study up on this or that survival technique in a pinch. Read the book now for fun, then read it again before your next outing, and practice some of the techniques covered too. Then hope that the re-reading and practice were ultimately a waste of time, because good read or not, no one ever wants to actually need to employ the content covered in this book."
+      },
+  
+      {
+        "_id": "cd2b53655737cc4077542baea9f8f75d",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "2",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 700,
+        "title": "React Master",
+        "author": {
+          "name": "Tom Cruce",
+          "published_date": "2022-08-30 20:02:52",
+          "img": "https://images.pexels.com/photos/5384445/pexels-photo-5384445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://ik.imagekit.io/ably/ghost/prod/2023/11/best-react-component-libraries.png?tr=w-1728,q-50",
+        "details": "React is a library. It lets you put components together, but it doesn't prescribe how to do routing and data fetching. To build an entire app with React, we recommend a full-stack React framework like Next.js or Remix.                         import { db } from './database.js'                                import { Suspense } from 'react'; async function ConferencePage({ slug }) {                          const conf = await db.Confs.find({ slug });                                return                       <ConferenceLayout conf={conf}>                              <Suspense fallback={<TalksLoading /<Talks confId={conf.id} />          </Suspense>                         </ConferenceLayout>);}                                                   async function Talks({ confId }) {const talks = await db.Talks.findAll({ confId });                   const videos = talks.map(talk => talk.video);                return <SearchableVideoList videos={videos} />}                                                                        People love web and native apps for different reasons. React lets you build both web apps and native apps using the same skills. It leans upon each platform’s unique strengths to let your interfaces feel just right on every platform.With React, you can be a web and a native developer. Your team can ship to many platforms without sacrificing the user experience. Your organization can bridge the platform silos, and form teams that own entire features end-to-end.                                                                React approaches changes with care. Every React commit is tested on business-critical surfaces with over a billion users. Over 100,000 React components at Meta help validate every migration strategy.The React team is always researching how to improve React. Some research takes years to pay off. React has a high bar for taking a research idea into production. Only proven approaches become a part of React.                                                                    This is why React is more than a library, an architecture, or even an ecosystem. React is a community. It’s a place where you can ask for help, find opportunities, and meet new friends. You will meet both developers and designers, beginners and experts, researchers and artists, teachers and students. Our backgrounds may be very different, but React lets us all create user interfaces together."
+      },
+      {
+        "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": false
+        },
+        "category_id": "7",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 300,
+        "title": "ChatGPT",
+        "author": {
+          "name": "Amir",
+          "published_date": "2023-01-22 21:37:59",
+          "img": "https://images.pexels.com/photos/35065/homeless-man-color-poverty.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "ChatGPT is similar to the automated chat services found on customer service websites, as people can ask it questions or request clarification to ChatGPT's replies. The GPT stands for Generative Pre-trained Transformer, which refers to how ChatGPT processes requests and formulates responses."
+      },
+      {
+        "_id": "7c4dfea0fafddc813673282a428429b7",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "1",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 0,
+        "title": "javaScript",
+        "author": {
+          "name": "Rick",
+          "published_date": "2023-01-22 21:37:59",
+          "img": "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Published: 25 Aug 2022, 09: 09 US president Joe Biden speaks as he attends the first virtual meeting of the   I2U2   group with Israeli prime minister Yair Lapid and leaders of India and the United Arab Emirates, in Jerusalem 14 July, 2022ReutersUS President Joe Biden marked Ukraine's Independence Day on Wednesday with $3 billion in security assistance, Washington's largest aid package since Russia's invasion six months ago but one that could take months or even years to arrive in Kyiv.The aid announcement came as US officials warned that Russia appeared to be planning to launch fresh attacks in coming days on Ukraine's civilian infrastructure and government facilities."
+      },
+      {
+        "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "1",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 320,
+        "title": "App development",
+        "author": {
+          "name": "James",
+          "published_date": "2022-04-25 09:45:11",
+          "img": "https://images.pexels.com/photos/3777557/pexels-photo-3777557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+        "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
+        "details": "People's Daily Online (Xinhua) 08:16, August 25, 2022 The United States has committed more than 13.5 billion dollars in security assistance to Ukraine since President Joe Biden took office. WASHINGTON, Aug. 24 (Xinhua) -- The United States on Wednesday announced an additional tranche of security assistance to Ukraine worth nearly 3 billion U.S. dollars, the largest one-time weapons aid to Kiev that came as the Russia-Ukraine conflict reached the half-year mark. According to a breakdown by the Department of Defense (DoD), items in the newly-announced package include six additional National Advanced Surface-to-Air Missile Systems (NASAMS) with additional munitions for NASAMS, up to 245,000 rounds of 155mm artillery ammunition, up to 65,000 rounds of 120mm mortar ammunition, up to 24 counter-artillery radars, Puma Unmanned Aerial Systems (UAS) and support equipment for Scan Eagle UAS systems,   Vampire   counter-UAS systems, as well as laser-guided rocket systems."
+      },
+      {
+        "_id": "df11ff9feefc37613cc3a4486ce02151",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": false
+        },
+        "category_id": "2",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 552,
+        "title": "python",
+        "author": {
+          "name": "Mr. loo",
+          "published_date": "2020-03-27 01:30:04",
+          "img": "https://images.pexels.com/photos/32976/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+        "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
+        "details": "Agencies | Washington The Daily Tribune – www.newsofbahrain.com The US President Joe Biden plans to appoint a general in Ukraine to lead the military training and relief efforts, the Wall Street Journal reported citing US officials. The officials indicated that in the coming weeks, the US administration also plans to name its military mission to support Ukraine. The name of the operation formally recognises US military support, akin to how the Pentagon dubbed the missions in Iraq and Afghanistan Operation Iraqi Freedom,   Enduring Freedom   and 'Guardian of Freedom'."
+      },
+      {
+        "_id": "919db97c34e0778b387dd40cdfa08130",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "1",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 89,
+        "title": "React Master",
+        "author": {
+          "name": "Oliver",
+          "published_date": "2020-03-23 01:30:04",
+          "img": "https://images.pexels.com/photos/1486064/pexels-photo-1486064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+        "details": "Last month, Moscow announced plans to hold   Vostok   (East) exercises from Aug. 30 to Sept. 5, even as it wages a costly war in Ukraine. The military exercises are expected to include China, India, Belarus, Mongolia, Tajikistan and other countries, China's defense ministry has said. Asked about India's participation, Jean-Pierre told reporters as President Joe Biden flew to Pennsylvania that the United States was concerned about any country participating in military exercises with Russia while it is at war with Ukraine."
+      },
+      {
+        "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "1",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 798,
+        "title": "Clean Code",
+        "author": {
+          "name": "jemes Harry",
+          "published_date": "2024-03-21 01:35:05",
+          "img": "https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+        "details": "KIEV, August 25. /TASS/. Ukrainian President Vladimir Zelensky said he had a   great   phone conversation with his US counterpart Joe Biden and discussed with him Ukraine's further actions on Thursday.    Had a great conversation with @POTUS. Thanked for the unwavering U.S. support for Ukrainian people - security and financial,   he wrote on Twitter.   We discussed Ukraine's further steps,   Zelensky added.  On Wednesday, US President Joe Biden announced $2.98 bln in military aid to Ukraine. On the same day, Ukrainian Prime Minister Denis Shmygal reported that the Ukrainian state budget received grant aid from the US in the amount of $3 bln."
+      },
+      {
+        "_id": "acb9b6785b62698fc6130db7615965e1",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "3",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 879,
+        "title": "Picture Edeting",
+        "author": {
+          "name": "Jara",
+          "published_date": "2024-05-02 15:51:23",
+          "img": "https://images.pexels.com/photos/14634926/pexels-photo-14634926.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+        "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
+        "details": "The United States has pledged nearly $3 billion in additional security assistance for Ukraine to help fight Russia's invasion as well as enable the country to defend itself over the long term. The latest aid package, under the Ukraine Security Assistance Initiative (USAI), was announced by President Joe Biden on Ukraine's Independence Day. This will allow Ukraine to acquire air defense systems,"
+      },
+      {
+        "_id": "be44c843d61859cc0b87cae85c55f9db",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "1",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 231,
+        "title": "The pragmatic Program",
+        "author": {
+          "name": "William",
+          "published_date": "2024-04-05 11:30:22",
+          "img": "https://images.pexels.com/photos/3777557/pexels-photo-3777557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+        "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
+        "details": "Illustrative public photo In the coming weeks, the Joe Biden administration plans to name its military mission to support Ukraine and appoint a general to lead the military training and relief efforts. This is reported by The Wall Street Journal, citing US officials. The name of the operation formally recognizes US military support, akin to how the Pentagon dubbed the missions in Iraq and Afghanistan Operation Iraqi Freedom,   Enduring Freedom   and 'Guardian of Freedom'. The naming of training and assistance is of great bureaucratic importance, as it usually entails long-term dedicated funding and the possibility of special pay, rewards for military personnel participating in these missions."
+      },
+      {
+        "_id": "1b03149c50f1bec662062d930bf46489",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "2",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 546,
+        "title": "Laravel",
+        "author": {
+          "name": "jacky",
+          "published_date": "2024-04-09 03:33:22",
+          "img": "https://images.pexels.com/photos/17839227/pexels-photo-17839227/free-photo-of-a-woman-in-a-black-suit-and-hat-posing-for-a-photo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Advertisement Advertisement Today at 6:00 p.m. by The Philadelphia Inquirer President Joe Biden delivers remarks on the Safer America Plan, intended to prevent dangerous people from accessing firearms, at the Arnaud C. Marts Center in Wilkes-Barre, Penn. on Tuesday Aug. 30, 2022. (Doug Mills/The New York Times)   It is time to give President Joe Biden his due. While Biden's approval rating doesn't reflect it, Uncle Joe is on a roll. After some bumpy months, gas prices are dropping, unemployment is at record lows, the job market is booming, incomes are rising, a top al-Qaida leader was taken out, the first Black female Supreme Court justice was seated, NATO has expanded, and Biden unified European support for Ukraine in its fight against Russia."
+      },
+      {
+        "_id": "7f5b80c1cdd4df0111918883eae07349",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "3",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 1870,
+        "title": "Templates",
+        "author": {
+          "name": "Thomas",
+          "published_date": "2023-08-18 03:15:10",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+        "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
+        "published_date": "2022-08-24 18:00:00",
+        "details": "U.S. President Joe Biden announced Wednesday that he is sending $2.98 billion US in new... read full story"
+      },
+      {
+        "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "7",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "total_view": 354,
+        "title": "‘AI",
+        "author": {
+          "name": "Adam",
+          "published_date": "2022-04-12 12:47:16",
+          "img": "https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+        "image_url": "https://i.ibb.co/hxG29nr/unsplash-Eh-Tc-C9s-YXsw-9.png",
+        "details": "Meghan Markle's Nelson Mandela story continues to unravel after the only South African cast member of 'The Lion King' said he was \"baffled\" by her suggestion that he told her his country had \"rejoiced\" when she married Prince Harry. The former Suits actress recalled an encounter she had at the 2019 London premiere of 'The Lion King' with an actor from South Africa who made a comparison to her wedding with Prince Harry and Nelson Mandela. “He looked at me, and he’s just like light. He said, ‘I just need you to know: When you married into this family, we rejoiced in the streets the same we did when Mandela was freed from prison,’” she said during an interview with The Cut. The Daily Mail revealed Dr John Kani, who claims he was the only South African actor in the film, said he did not attend the premiere and had never met the Duchess of Sussex. \"I have never met Meghan Markle,\" he told the MailOnline. \"This seems like something of a faux pas by her. I have I have never met the duchess at all. I am the only South African member of the cast and I did not attend the premiere in London. \"The only South African was me playing Rafiki. But I did not go to the opening in Leicester Square as I didn't have the time to do that. It just may be a mis-remembering on her side. \"It is baffling me.\" Nelson Mandela’s grandson said he was “surprised” when he heard Ms Markle compare her wedding with Prince Harry to his grandfather being freed from prison. He said it “cannot be equated to as the same\". The Duchess of Sussex was met with heavy criticism online after she told the story to The Cut. \"The damage her and her husband are doing to the Queen and the Royal Family is incalculable... these two hypocritical, self-obsessed liars are in the end going to be ignored,\" said Nigel Farage"
+      },
+      {
+        "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "5",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+  
+        "total_view": 100,
+        "title": "Gray Hat Hacking",
+        "author": {
+          "name": "Mr. Wingeat",
+          "published_date": "2021-02-36 00:31:34",
+          "img": "https://images.pexels.com/photos/5384445/pexels-photo-5384445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
+        "image_url": "https://i.ibb.co/tKsvCyR/unsplash-Eh-Tc-C9s-YXsw-3.png",
+        "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. In a statement, Biden said the aid will allow Ukraine to acquire air defense systems, artillery systems and munitions, drones and other equipment 'to ensure it can continue to defend itself over the long term.' The announcement comes as Ukraine is celebrating its 1991 declaration of independence from the Soviet Union."
+      },
+      {
+        "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": false
+        },
+        "category_id": "4",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+  
+        "total_view": 100,
+        "title": "“Max Verstappen has plenty trophies” – Lando Norris wants $50 Million a year Dutch sensation to give him his trophy",
+        "author": {
+          "name": "Networking Fundamental",
+          "published_date": "2019-03-21 20:27:23",
+          "img": "https://images.pexels.com/photos/5384445/pexels-photo-5384445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
+        "image_url": "https://i.ibb.co/CVg1Nrt/unsplash-Eh-Tc-C9s-YXsw-5.png",
+        "details": "Lando Norris asks Max Verstappen to lend him the 2022 Dutch GP trophy as he predicts the Dutchman as a sure winner. Max Verstappen returns to his home Grand Prix in Zandvoort for the 2022 Dutch GP. And it seems like the Dutchman will enjoy another easy victory this weekend. Max has a 93-point advantage in the drivers’ championship over Ferrari’s Charles Leclerc ahead of the race. And at this rate, Max can cruise comfortably, to claim his 2nd Championship title this season. But Max does not want to lose his focus and momentum ahead of his home GP. He wants to claim his 10th win of the season in front of his home crowd in style. Recently, the Dutch GP unveiled a rather unique-looking trophy. And McLaren driver Lando Norris liked the new trophy.   a journalist asks lando if he likes the dutch gp trophy and if it will be his on sunday: “no, it’s max’s. everyone knows it’s max’s already. maybe max will give it to me, he has plenty.” i love lando norris and max verstappen friendship pic.twitter.com/LQh9cnwjLv — comfort lando norris (@safeforlando) August 31, 2022 The Brit was grabbing a bicycle in the F1 paddock when he was interviewed by Dutch press personnel. Norris was asked what he thought of the Dutch Grand Prix trophy. Norris replied, “Oh I loved it.” But he admitted he would not be able to take the trophy home. He said, “No, it’s Max’s. Everyone knows it’s Max’s already. Maybe he will give it to me, he has plenty.” Seems like Norris is not alone. As it is becoming more obvious amongst the drivers that the Dutch GP trophy has Max’s name written on it. And with a win this Sunday, even the Championship might have Max’s name for a second time. Also Read: Lando Norris hits out at Daniel Ricciardo amidst his $16.7 Million contract termination Max Verstappen unveils a new helmet for the Dutch GP Max Verstappen became the first Dutch driver to win an F1 race when he won the 2016 Spanish GP. He also became the first Dutchman to win the Championship title. And he would like to pay tribute to his father, Jos Verstappen who coached him during his karting days and developed him as a racing driver. Jos has also served as a manager for Max. Jos was an F1 driver who raced in F1 from 1994 to 2003. He has 106 race starts with no wins and he raced for a variety of teams from Benetton, Arrows, Tyrell and Honda. And for the Dutch GP, Max would be wearing a helmet that resembles the one worn by his father. He will be wearing it on a track on which he has raced numerous times while Karting with his father.   ᴀ ᴛʀɪʙᴜᴛᴇ ᴛᴏ ᴊᴏs ᴠᴇʀsᴛᴀᴘᴘᴇɴ Returning to Zandvoort as a World Champion, Max chose to honor his mentor and Dad by using Jos his iconic helmet design as an inspiration 1:2 and 1:4 scale models are now available https://t.co/SxY1Y14OH2 pic.twitter.com/tz2DdtXJM4 — Max Verstappen (@VerstappenCOM) August 30, 2022 Verstappen said in a video posted by him, “It’s a bit emotional as well. But I think it’s just really special to drive something like this because it’s also how I started in go-karting.” He added, “All the old pictures I have of go-karting are with this iconic design. So that’s why we thought it was a great idea to bring this back alive around Zandvoort.” Jos has never won a race in his F1 career. But wearing this helmet, Max might win his 10th race of the season and cement his name on the Championship trophy. Also Read: Max Verstappen can equalize Michael Schumacher-Sebastian Vettel joint record if he wins 4 more races in 2022 The post “Max Verstappen has plenty trophies” – Lando Norris wants $50 Million a year Dutch sensation to give him his trophy appeared first on The SportsRush."
+      }
+    ]
